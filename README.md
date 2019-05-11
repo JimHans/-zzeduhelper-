@@ -12,7 +12,7 @@
 
 * 官方网站：https://dev.leyoblog.top/zzedubelper.html <br>
 
-* 编译IDE： `Dev-C++` （V0.99.17Beta 前）`Visual Studio 2017` （V0.99.17后）
+* 编译IDE： `Dev-C++` （V0.99.7Beta 前）`Visual Studio 2017` （V0.99.7后）
 
 ## 目前的最新版本为`V1.0.2`.最新测试版为`0.99.9`.
 ## 以下为各版本更新日志：
