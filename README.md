@@ -2,7 +2,7 @@
 # 郑州一中电阅助手V1.0.2
 <p align="center">
  
- <img src="https://img.shields.io/badge/Version-1.0.2Beta-red.svg?style=flat-square">
+ <img src="https://img.shields.io/badge/Version-1.0.2正式版-red.svg?style=flat-square">
 <img src="https://img.shields.io/badge/language-中文-green.svg?style=flat-square">
 <img src="https://img.shields.io/badge/Design-乐由科技-purple.svg?style=flat-square">
 <img src="https://img.shields.io/badge/IDE-Visual Studio 2017-blue.svg?style=flat-square">
