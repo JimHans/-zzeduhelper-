@@ -1,5 +1,12 @@
 ![image](https://raw.githubusercontent.com/JimHans/-zzeduhelper-/master/banner.jpg)
 # 郑州一中电阅助手V1.0.1
+<p align="center">
+ 
+ <img src="https://img.shields.io/badge/Version-1.0.1Beta-red.svg?style=flat-square">
+<img src="https://img.shields.io/badge/language-中文-green.svg?style=flat-square">
+<img src="https://img.shields.io/badge/Design-乐由科技-purple.svg?style=flat-square">
+<img src="https://img.shields.io/badge/IDE-Visual Studio 2017-blue.svg?style=flat-square">
+</p>
    郑州一中电阅助手是专门为沉浸在电子阅览室中的coder和颓竞大佬们专门打造的电阅系统加速器与修复器，可以有效地修复电阅机器的网络问题并加速系统。
 除V0.5Beta版本外，其余版本仅提供64位软件下载。<br>
 * 官方网站：https://dev.leyoblog.top/zzedubelper.html <br>
