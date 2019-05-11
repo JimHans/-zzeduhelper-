@@ -9,6 +9,7 @@
 </p>
    郑州一中电阅助手是专门为沉浸在电子阅览室中的coder和颓竞大佬们专门打造的电阅系统加速器与修复器，可以有效地修复电阅机器的网络问题并加速系统。
 除V0.5Beta版本外，其余版本仅提供64位软件下载。<br>
+
 * 官方网站：https://dev.leyoblog.top/zzedubelper.html <br>
 
 * 编译IDE： `Dev-C++` （V0.99.17Beta 前）`Visual Studio 2017` （V0.99.17后）
