@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Design-乐由科技-purple.svg?style=flat-square">
 <img src="https://img.shields.io/badge/IDE-Visual Studio 2017-blue.svg?style=flat-square">
 </p>
-   郑州一中电阅助手是专门为沉浸在电子阅览室中的coder和颓竞大佬们专门打造的电阅系统加速器与修复器，可以有效地修复电阅机器的网络问题并加速系统。
+   郑州一中电阅助手是专门为郑州市第一中学各位沉浸在电子阅览室中的coder和颓竞大佬们专门打造的电阅系统加速器与修复器，可以有效地修复电阅机器的网络问题并加速系统。
 除V0.5Beta版本外，其余版本仅提供64位软件下载。<br>
 
 * 官方网站：https://dev.leyoblog.top/zzeduhelper.html <br>
