@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/JimHans/-zzeduhelper-/master/banner.jpg)
-<h1 align="center"> 郑州一中电阅助手V1.0.2 </h1>
+<h1 align="center"> 郑州一中电阅助手 </h1>
 <p align="center">
  
 <img src="https://img.shields.io/badge/Version-1.0.2正式版-red.svg?style=flat-square">
